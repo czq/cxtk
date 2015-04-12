@@ -1,3 +1,7 @@
+# Ignore all the dot or hidden files and directories, ie. .DS_Store, .ssh/
+.*
+!/.gitignore
+
 # Object files
 *.o
 *.ko
